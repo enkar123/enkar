@@ -7,5 +7,6 @@ int main(int argc, char **argv)
 	char first[255], last[255];
 	askname(first, last);
 	printf("Hey! %s %s!\n", first, last);
+	print("Hi, I'm enkar010! ");
 	return 0;
 }
